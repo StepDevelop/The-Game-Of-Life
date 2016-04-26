@@ -1,3 +1,6 @@
+// Author: Stefano (StepDevelop) Peris
+//  eMail: stefanop.dev@gmail.com
+
 // An implementation of Conway's Game of Life.
 package main
 
